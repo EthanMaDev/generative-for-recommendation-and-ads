@@ -1,7 +1,10 @@
-# Semantic IDs for Recommendation Systems
+# 【WIP】generative solutions for Recommendation Systems and advertisement system
 
-A PyTorch implementation comparing traditional ID-based and semantic-based recommendation models on the Amazon Beauty dataset. This project explores how semantic representations of items can improve recommendation performance, particularly for cold-start scenarios.
-
+GR Solutions： 
+  A PyTorch implementation comparing traditional ID-based and semantic-based recommendation models on the Amazon Beauty dataset. This project explores how semantic representations of items can improve recommendation performance, particularly for cold-start scenarios.
+GAds Solutions：
+  【WIP】 Auto Biding，or end-to-end Optimization
+  
 This accompanies the blog posts:
 - [Semantic Ids for Recommendation Systems: A Practical Study](https://januverma.substack.com/p/semantic-ids-for-recommendation-systems-88b)
 - [Semantic Ids for Recommendation Systems: A Technical Deep Dive](https://januverma.substack.com/p/semantic-ids-for-recommendation-systems)
